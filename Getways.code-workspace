@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Applications/MAMP/htdocs/Getways"
+		},
+		{
+			"path": "../../../api yan"
+		},
+		{
+			"path": "../../../../../../Applications/MAMP/htdocs/apipeter"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../rn-auth-main"
+		}
+	],
+	"settings": {}
+}
